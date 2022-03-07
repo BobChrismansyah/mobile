@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile Bob Fix</string>
+    <string name="hyperlink"><a href="mailto:bob@ilkom.my.id">bob@ilkom.my.id</a></string>
+    <string name="deskripsi">I was born on December, 2002 in Polewali. I am currently taking my 4th semester at Hasanuddin University. Besides being active on campus, I am also active in church organizations and studying computer science and some programming languages.</string>
+    <string name="aboutme1">Technology development, graphic design, photography, and website creation are all areas that I am passionate about. As a result, I prefer to put what I already know and have into practice and share it with others so that it might be beneficial.</string>
+    <string name="github"><a href="https://github.com/BobChrismansyah">BobChrismansyah</a></string>
+    <string name="instagram"><a href="https://www.instagram.com/bob.chrismansyah/">bob.chrismansyah</a></string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/bob-chrismansyah-380172213/">Bob Chrismansyah</a></string>
+
+</resources>

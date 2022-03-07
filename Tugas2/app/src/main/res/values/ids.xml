@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView2" type="id" />
+    <item name="textView2" type="id" />
+    <item name="activity_main_hyperlink" type="id" />
+    <item name="hyperlink" type="id" />
+</resources>
