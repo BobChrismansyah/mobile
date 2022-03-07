@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application Biodata</string>
+    <string name="hyperlink"><a href="mailto:bob@ilkom.my.id">bob@ilkom.my.id</a></string>
+</resources>
